@@ -2,6 +2,7 @@
 /*.iherb.*/
 /*.thissubdomainshouldonlyresolveifwildcard.*/
 /*barclays*/
+||17u.cn^
 ||aaguk.eu^
 ||aidc.com.tw^
 ||asertdnsresearch.com^
@@ -33,4 +34,5 @@
 ||tusass.gl^
 hostname.bind
 id.server
+null
 version.bind
